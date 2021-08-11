@@ -26,7 +26,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=d-cryptic&" alt="d-cryptic" /></p>
  -->
  <div align="center">
-<img width="100%" height = "250px" src="https://media.giphy.com/media/wGEymBvo6FUlR9bbda/giphy-downsized-large.gif" alt="cover" />
+<img width="100%" height = "250px" src="https://tenor.com/view/coding-hello-world-c-programming-programming-gif-21075258" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
