@@ -26,7 +26,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=d-cryptic&" alt="d-cryptic" /></p>
  -->
  <div align="center">
-<img width="100%" height = "250px" src="https://www.shutterstock.com/image-illustration/three-thinkers-computer-one-them-has-1812332062" alt="cover" />
+<img width="100%" height = "250px" src="https://media.giphy.com/media/wGEymBvo6FUlR9bbda/giphy.gif" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
@@ -78,4 +78,3 @@
 
 
 <br>
-<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
